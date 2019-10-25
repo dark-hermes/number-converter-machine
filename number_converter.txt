@@ -1,0 +1,2 @@
+Follow the instruction on the program
+Run with IDLE Python, VSCode, Terminal, etc.
